@@ -110,6 +110,20 @@ https://github.com/user-attachments/assets/7676677c-235c-49d9-a400-6f88ba999e44
 METRA
 https://github.com/user-attachments/assets/69ca8d58-13a4-4c02-b48e-d6b230bfd201
 
+### Cheetah
+CSF
+https://github.com/user-attachments/assets/e44657d5-306f-4bc0-9805-dba2aabbfd0c
+
+METRA
+https://github.com/user-attachments/assets/6149002f-6b67-4b3b-8327-45d1f78bdec2
+
+### Kitchen
+CSF
+https://github.com/user-attachments/assets/eba9c030-05fc-4526-a1b4-7c6bad26536f
+
+METRA
+https://github.com/user-attachments/assets/dd695dc2-7c8c-422d-afda-b706fb50526c
+
 
 ## Acknowledgements
 This code repo was built on the original [METRA repo](https://github.com/seohongpark/METRA).
