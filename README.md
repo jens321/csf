@@ -78,6 +78,8 @@ Once experiments are running, they will be logged under the `exp` folder.
 
 ## Videos of learned policies
 
+Our key theoretical result is that a prominent skill learning algorithm (METRA) can be *reinterpreted* as doing mutual information maximization. This opens the door to a new skill learning method (CSF) that is simpler, has the same objective as a long line of prior work, and achieves results that are on par with the current SOTA.
+
 ### Robobin
 CSF
 https://github.com/user-attachments/assets/dd60c6c2-caf9-4d23-84ad-ceb84e47e34b
@@ -91,7 +93,6 @@ https://github.com/user-attachments/assets/7676677c-235c-49d9-a400-6f88ba999e44
 
 METRA
 https://github.com/user-attachments/assets/69ca8d58-13a4-4c02-b48e-d6b230bfd201
-
 
 
 ## Acknowledgements
