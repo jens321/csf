@@ -85,43 +85,32 @@ The videos below indeed show that our method (CSF) qualitatively learns similar 
 ### Robobin
 [CSF](https://github.com/user-attachments/assets/dd60c6c2-caf9-4d23-84ad-ceb84e47e34b)
 
-METRA
-https://github.com/user-attachments/assets/8b97e54f-4adf-4dd5-b849-e7860d5c7cfe
+[METRA](https://github.com/user-attachments/assets/8b97e54f-4adf-4dd5-b849-e7860d5c7cfe)
 
 ### Quadruped
-CSF
-https://github.com/user-attachments/assets/3d6ac6e2-1672-443f-b4be-7abc128e0e06
+[CSF](https://github.com/user-attachments/assets/3d6ac6e2-1672-443f-b4be-7abc128e0e06)
 
-METRA
-https://github.com/user-attachments/assets/c2f221c5-af96-45b5-b011-d33dedc8ee8c
+[METRA](https://github.com/user-attachments/assets/c2f221c5-af96-45b5-b011-d33dedc8ee8c)
 
 ### Humanoid
-CSF
-https://github.com/user-attachments/assets/264ff1be-3944-47db-8448-9de9942462ae
+[CSF](https://github.com/user-attachments/assets/264ff1be-3944-47db-8448-9de9942462ae)
 
-METRA
-https://github.com/user-attachments/assets/5b2083d6-8ffc-49ad-ab21-55ac6284a729
+[METRA](https://github.com/user-attachments/assets/5b2083d6-8ffc-49ad-ab21-55ac6284a729)
 
 ### Ant
-CSF
-https://github.com/user-attachments/assets/7676677c-235c-49d9-a400-6f88ba999e44
+[CSF](https://github.com/user-attachments/assets/7676677c-235c-49d9-a400-6f88ba999e44)
 
-METRA
-https://github.com/user-attachments/assets/69ca8d58-13a4-4c02-b48e-d6b230bfd201
+[METRA](https://github.com/user-attachments/assets/69ca8d58-13a4-4c02-b48e-d6b230bfd201)
 
 ### Cheetah
-CSF
-https://github.com/user-attachments/assets/e44657d5-306f-4bc0-9805-dba2aabbfd0c
+[CSF](https://github.com/user-attachments/assets/e44657d5-306f-4bc0-9805-dba2aabbfd0c)
 
-METRA
-https://github.com/user-attachments/assets/6149002f-6b67-4b3b-8327-45d1f78bdec2
+[METRA](https://github.com/user-attachments/assets/6149002f-6b67-4b3b-8327-45d1f78bdec2)
 
 ### Kitchen
-CSF
-https://github.com/user-attachments/assets/eba9c030-05fc-4526-a1b4-7c6bad26536f
+[CSF](https://github.com/user-attachments/assets/eba9c030-05fc-4526-a1b4-7c6bad26536f)
 
-METRA
-https://github.com/user-attachments/assets/dd695dc2-7c8c-422d-afda-b706fb50526c
+[METRA](https://github.com/user-attachments/assets/dd695dc2-7c8c-422d-afda-b706fb50526c)
 
 
 ## Acknowledgements
