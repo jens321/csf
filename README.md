@@ -89,6 +89,20 @@ https://github.com/user-attachments/assets/dd60c6c2-caf9-4d23-84ad-ceb84e47e34b
 METRA
 https://github.com/user-attachments/assets/8b97e54f-4adf-4dd5-b849-e7860d5c7cfe
 
+### Quadruped
+CSF
+https://github.com/user-attachments/assets/3d6ac6e2-1672-443f-b4be-7abc128e0e06
+
+METRA
+https://github.com/user-attachments/assets/c2f221c5-af96-45b5-b011-d33dedc8ee8c
+
+### Humanoid
+CSF
+https://github.com/user-attachments/assets/264ff1be-3944-47db-8448-9de9942462ae
+
+METRA
+https://github.com/user-attachments/assets/5b2083d6-8ffc-49ad-ab21-55ac6284a729
+
 ### Ant
 CSF
 https://github.com/user-attachments/assets/7676677c-235c-49d9-a400-6f88ba999e44
