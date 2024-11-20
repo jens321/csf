@@ -76,7 +76,23 @@ sh scripts/pretrain/csf_robobin.sh
 
 Once experiments are running, they will be logged under the `exp` folder.
 
+## Videos of learned policies
+
+### Robobin
+CSF
+https://github.com/user-attachments/assets/dd60c6c2-caf9-4d23-84ad-ceb84e47e34b
+
+METRA
+https://github.com/user-attachments/assets/8b97e54f-4adf-4dd5-b849-e7860d5c7cfe
+
+### Ant
+CSF
 https://github.com/user-attachments/assets/7676677c-235c-49d9-a400-6f88ba999e44
+
+METRA
+https://github.com/user-attachments/assets/69ca8d58-13a4-4c02-b48e-d6b230bfd201
+
+
 
 ## Acknowledgements
 This code repo was built on the original [METRA repo](https://github.com/seohongpark/METRA).
