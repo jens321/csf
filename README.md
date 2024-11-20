@@ -76,5 +76,7 @@ sh scripts/pretrain/csf_robobin.sh
 
 Once experiments are running, they will be logged under the `exp` folder.
 
+https://github.com/user-attachments/assets/7676677c-235c-49d9-a400-6f88ba999e44
+
 ## Acknowledgements
 This code repo was built on the original [METRA repo](https://github.com/seohongpark/METRA).
