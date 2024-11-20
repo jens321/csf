@@ -83,8 +83,7 @@ Our key theoretical result is that a prominent skill learning algorithm (METRA) 
 The videos below indeed show that our method (CSF) qualitatively learns similar skills to the prior method (METRA).
 
 ### Robobin
-CSF
-https://github.com/user-attachments/assets/dd60c6c2-caf9-4d23-84ad-ceb84e47e34b
+[CSF](https://github.com/user-attachments/assets/dd60c6c2-caf9-4d23-84ad-ceb84e47e34b)
 
 METRA
 https://github.com/user-attachments/assets/8b97e54f-4adf-4dd5-b849-e7860d5c7cfe
